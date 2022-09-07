@@ -1,6 +1,6 @@
 # future-ready-talent
 My Future Ready Talent Project
-FOOD MUNCH
+FOOD MUNCH 
 This is a static website developed using HTML,CSS languages and Bootstrap framework. The primary motto of "FOOD MUNCH" organization is to provide the Food that is healthy and taste. And provide the various food items to the customers that are delicious, tastier, and provide clean and fresh food to customers at low and resonable price. And provide good services to customer at fast delivery and provide more offers to make the customers statisfactory.
 
 ![image](https://user-images.githubusercontent.com/112898347/188801236-775cda53-85e1-4fa9-9520-23bdd8015aec.png)
